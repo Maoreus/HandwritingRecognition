@@ -1,0 +1,3 @@
+# HandwritingRecognition
+简单数字手写识别demo
+适用于十位以内简单数字的识别
